@@ -145,3 +145,4 @@ Authors
 
 - [Rikkert Koppes](mailto:rikkert@rikkertkoppes.com)
 - [Kenny Meesters](mailto:k.meesters@gmail.com)
+- [Jeroen Bosch](mailto:bosch.jeroen@gmail.com)
